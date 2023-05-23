@@ -72,8 +72,9 @@ button i {
     margin-bottom: 16px;
 }
 
+
 li {
-    margin: 16px 2px;
+    margin: 16px 8px;
 }
 
 .synonyms {
@@ -84,4 +85,9 @@ li {
 .synonyms span {
     font-weight: bolder;
     color: #ff00f7;
+}
+
+.audio {
+    margin-right: 300px;
+    padding: 50px;
 }
